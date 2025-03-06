@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:quiz_app/screens/onboarding_screen.dart';
-import 'package:quiz_app/screens/settings_screen.dart';
 
 void main() {
   runApp(const MyApp());

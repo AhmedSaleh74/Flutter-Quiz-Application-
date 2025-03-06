@@ -12,6 +12,35 @@ A modern and interactive Quiz application built with Flutter and GetX. Test your
 - Responsive Design: Works on both Android and iOS devices
 - Animated UI: Engaging user interface with smooth animations
 
+## 📸 Screenshots
+
+### **🛠 Onboarding Screens**
+| Onboarding 1 | Onboarding 2 | Onboarding 3 |  
+|--------------|--------------|--------------|  
+| ![Onboarding 1](assets/screenshots/onboarding1.png) | ![Onboarding 2](assets/screenshots/onboarding2.png) | ![Onboarding 3](assets/screenshots/onboarding3.png) |  
+
+---
+
+### **⚙️ Quiz Settings Screens**
+| Quiz Settings 1 | Quiz Settings 2                                          |  
+|-----------------|----------------------------------------------------------|  
+| ![Quiz Settings 1](assets/screenshots/quiz_setting1.png) | ![Quiz Settings 2](assets/screenshots/quiz_setting2.png) |  
+
+---
+
+### **📝 Quiz Screens**
+| Quiz Screen 1 | Quiz Screen 2                                         |  
+|--------------|-------------------------------------------------------|  
+| ![Quiz Screen 1](assets/screenshots/quiz_screen1.png) | ![Quiz Screen 2](assets/screenshots/quiz_screen2.png) |  
+
+---
+
+### **🏆 Results Screen**
+| Results Screen                                   |  
+|--------------------------------------------------|  
+| ![Results Screen](assets/screenshots/result.png) |  
+
+
 ## 🛠️ Tech Stack
 
 - Framework: Flutter
