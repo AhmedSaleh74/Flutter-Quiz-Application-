@@ -132,7 +132,7 @@ class SettingsScreen extends StatelessWidget {
                         )),
                         Obx(() => Expanded(
                           child: CustomDropdown<int>(
-                            label: 'Number of Questions',
+                            label: 'Num of Questions',
                             value: numberOfQuestions.value,
                             items: [5, 10, 15, 20, 25, 30],
                             getLabel: (number) => '$number Questions',

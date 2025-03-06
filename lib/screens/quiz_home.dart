@@ -115,18 +115,23 @@ class QuizScreen extends StatelessWidget {
                   ),
                   child: Row(
                     children: [
-                      const Icon(
-                        Icons.person,
-                        color: Colors.white,
-                        size: 30,
+                      Expanded(
+                        child: const Icon(
+                          Icons.person,
+                          color: Colors.white,
+                          size: 30,
+                        ),
                       ),
                       const SizedBox(width: 10),
-                      Text(
-                        'Hello, $playerName!',
-                        style: const TextStyle(
-                          fontSize: 24,
-                          fontWeight: FontWeight.bold,
-                          color: Colors.white,
+                      Expanded(
+                        flex: 3,
+                        child: Text(
+                          'Hello, $playerName!',
+                          style: const TextStyle(
+                            fontSize: 24,
+                            fontWeight: FontWeight.bold,
+                            color: Colors.white,
+                          ),
                         ),
                       ),
                     ],
@@ -272,7 +277,7 @@ class QuizScreen extends StatelessWidget {
                                 width: 1,
                               ),
                             ),
-                            child: _buildAnswers(),
+                            child: Center(child: _buildAnswers()),
                           ),
                         ),
                       ],
