@@ -60,7 +60,7 @@ A modern and interactive Quiz application built with Flutter and GetX. Test your
 ### Installation
 
 1. Clone the repository
-git clone https://github.com/AhmedSaleh74/Flutter-Quiz-Application.git
+git clone https://github.com/AhmedSaleh74/Flutter-Quiz-Application
 
 2. Navigate to project directory
 cd quiz_app
